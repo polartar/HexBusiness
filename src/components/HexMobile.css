@@ -1,0 +1,17 @@
+.download{
+	margin:20px;
+	max-height: 75px
+}
+
+.download-buttons{
+	margin-bottom:auto;
+	margin-top:auto;
+}
+.download-button{
+	width:100%;
+	max-height:85px;
+}
+.mobile-image{
+	max-width:309px;
+	max-height:350px;
+}

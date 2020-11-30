@@ -1,0 +1,50 @@
+{
+  "name": "hexbusiness",
+  "version": "0.1.0",
+  "private": true,
+  "dependencies": {
+    "@testing-library/jest-dom": "^4.2.4",
+    "@testing-library/react": "^9.3.2",
+    "@testing-library/user-event": "^7.1.2",
+    "bootstrap": "^4.4.1",
+    "cors": "^2.8.5",
+    "etherscan-api": "^10.0.5",
+    "react": "^16.13.1",
+    "react-bootstrap": "^1.0.0",
+    "react-copy-to-clipboard": "^5.0.2",
+    "react-dom": "^16.13.1",
+    "react-headroom": "^3.0.0",
+    "react-helmet": "^6.0.0",
+    "react-player": "^1.15.3",
+    "react-responsive-carousel": "^3.2.4",
+    "react-router-dom": "^5.1.2",
+    "react-scripts": "3.4.1",
+    "use-query-params": "^1.1.1",
+    "web3": "^1.2.7",
+    "snyk": "^1.321.0"
+  },
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test",
+    "eject": "react-scripts eject",
+    "snyk-protect": "snyk protect",
+    "prepare": "npm run snyk-protect"
+  },
+  "eslintConfig": {
+    "extends": "react-app"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  },
+  "snyk": true
+}

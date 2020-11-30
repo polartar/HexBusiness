@@ -1,0 +1,15 @@
+.sign-up{
+	width:100% !important;
+	min-width: 80px;
+	font-size:15px !important;
+	background-image: linear-gradient(to right, #45b8ff , #8941fc);
+	color:white !important;
+	border:none !important;
+}
+
+.email-input{
+	margin-bottom:30px;
+}
+.email-input::placeholder{
+	color:lightgrey;
+}

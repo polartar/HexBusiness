@@ -1,0 +1,52 @@
+
+
+.App-header {
+  height:45px;
+   background-image: linear-gradient(to right, #45b8ff , #8941fc);
+ 
+width:100%;
+  top: 0;
+  z-index: 2;
+}
+
+a{
+	color:white !important;
+	text-decoration: none !important;
+}
+
+.top-col{
+	height:55px;
+}
+
+.top-image {
+	width:30px;
+}
+.test{
+	height:100px;
+}
+
+.menu{
+	max-width: 100%;
+    overflow-x: hidden;
+}
+.menu-icon{
+	width: 30px;
+	height:25px;
+	    vertical-align: baseline;
+}
+.metamask-button{
+	min-width:150px;
+	width:150px;
+	float: right;
+	margin-right: 30px;
+
+
+}
+.right-button{
+	width:40px;
+}
+
+.modal-content{
+	background-image: linear-gradient(to top, #45b8ff , #8941fc);
+	color:white;
+}

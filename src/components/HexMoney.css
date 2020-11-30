@@ -1,0 +1,67 @@
+.enter-amount{
+	border-radius: 3px;
+    width: 150px;
+    border: none;
+    background: #6ac5fd;
+    color: white;
+    padding:12px;
+    font-size: 20px;
+    height:50px;
+}
+
+.money-text{
+  font-size:25px;
+}
+
+.money-col{
+    padding-top: 6px !important;
+    padding-bottom: 6px !important;
+}
+label.select-button.btn.btn-light {
+font-size:26px !important;
+}
+.enter-amount::placeholder {
+  color: white;
+  font-family:'Arial';
+  font-weight:lighter;
+  font-size: 20px;
+  margin-bottom:5px;
+}
+
+.action-button{
+    width: 160px;
+    height:60px;
+    background: #6d5eff !important;
+    border: 3px solid white !important;
+    border-radius: 5px !important;
+    color: white !important;
+    font-family: 'Palanquin';
+    font-size: 26px !important;
+    font-weight: bolder !important;
+}
+
+.action-button:hover{
+  opacity:0.7;
+}
+
+.btn-group-vertical{
+	width:100%;
+}
+
+.referral-text{
+  font-size:16px;
+}
+
+.btn-group.btn-group-toggle{
+  width:100%;
+}
+label.select-button.btn.btn-light,
+label.select-button.btn.active.btn-light{
+	width:100%;
+	margin-bottom: 10px;
+	color:#6582a9;
+	font-size:2vw;
+	font-weight: bold;
+
+}
+

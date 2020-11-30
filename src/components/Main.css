@@ -1,0 +1,99 @@
+.lets-talk{
+   display: flex;
+  text-align: left;
+  align-items: center;
+  font-size:4vw;
+}
+
+.main-section{
+  margin-top:45px;
+}
+
+.hex-business-text{
+	margin-top:40px;
+	margin-bottom: auto;
+}
+
+.mobile-stat-margin{
+	margin-left:3px !important;
+	margin-right:3px !important;
+}
+
+.table-col{
+	margin:5px;
+}
+
+.top-cell{
+	align-items: center;
+}
+
+.table-title{
+	font-family:'Arial';
+	margin-top:8px;
+	padding:5px;
+	color:white;
+	text-align: left;
+	background-color:#49a9ff;	
+}
+
+.stat-text{
+	font-family:'Arial';
+	font-size:15px;
+}
+
+@media screen and (min-width: 640px) {
+	.table-margin{
+		margin-right:-8px !important;
+	}
+}
+
+.stat-cell{
+	padding:3px !important;
+}
+
+.arrow{
+	width:30px;
+}
+
+.arrow-small{
+	width:25px;
+}
+
+.ticker-row{
+	align-items: baseline;
+    padding-right: 15px;
+    padding-left: 15px;
+}
+
+.percent-text-up{
+	background-color: #1be441;
+	color:white;
+	text-align:center;
+	font-size:15px;
+	margin:auto;
+	padding:3px;
+
+}
+
+.percent-text-down{
+	background-color: #f52857;
+	color:white;
+	text-align: center;
+	font-size:15px;
+	margin: auto;
+	padding:3px;
+
+}
+
+.small-percent{
+	font-size:9px;
+}
+
+.top-phone{
+	width:70%;
+	float:right;
+}
+
+.no-padding{
+	padding:0 !important;
+}
